@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Computer Science**, [UC Berkeley (BAIR)](https://bair.berkeley.edu/), *Starting Fall 2025*  
-  * Temporary advisors: [Aditi Krishnapriyan](https://a1k12.github.io/) and [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 
 * **B.S. in Computer Science (AI Specialization)**, [UC Irvine](https://uci.edu/), *2022 - 2024*  
   * *Graduated Summa Cum Laude*, **4.0 GPA**  
