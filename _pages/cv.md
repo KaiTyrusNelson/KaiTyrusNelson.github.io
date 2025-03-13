@@ -34,7 +34,7 @@ Work Experience
 * **Global Security Intern**, Lawrence Livermore National Laboratory *(PI: Dr. Mateusz Monterial)*  
   * June 2021 – August 2021  
 
-* **Grader**, UC Irvine *(Supervisor: [Stephan Mandt](https://mandt.ai/))*  
+* **Grader**, UC Irvine *(Supervisor: [Stephan Mandt](https://www.stephanmandt.com/))*  
   * January 2024 – April 2024  
 
 Publications
