@@ -11,54 +11,70 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science**, [UC Berkeley (BAIR)](https://bair.berkeley.edu/), *Starting Fall 2025*  
+  * Temporary advisors: [Aditi Krishnapriyan](https://a1k12.github.io/) and [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/)
 
-Work experience
+* **B.S. in Computer Science (AI Specialization)**, [UC Irvine](https://uci.edu/), *2022 - 2024*  
+  * *Graduated Summa Cum Laude*, **4.0 GPA**  
+  * Graduate Courses: Deep Generative Models, Probabilistic and Bayesian Learning, Probabilistic Graphical Models
+
+Technical Skills
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Machine Learning**: Diffusion and Flow Models, Variational Inference, Bayesian Statistics and Learning, Large Language Models, Representation Learning  
+* **Mathematics**: Measure and Real Analysis, Modern Probability and Statistics, Linear and Abstract Algebra  
+* **Programming Languages**: Python, C++, C  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Work Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Student Researcher**, UC Irvine *(PI: [Padhraic Smyth](https://www.ics.uci.edu/~smyth/))*  
+  * June 2023 – Present  
+
+* **Research Assistant**, Lawrence Livermore National Laboratory *(PI: Dr. Mateusz Monterial)*  
+  * June 2020 – July 2022  
+
+* **Global Security Intern**, Lawrence Livermore National Laboratory *(PI: Dr. Mateusz Monterial)*  
+  * June 2021 – August 2021  
+
+* **Grader**, UC Irvine *(Supervisor: [Stephan Mandt](https://mandt.ai/))*  
+  * January 2024 – April 2024  
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Self Study
 ======
-* Currently signed in to 43 different slack teams
+Measure Theory
+Probability
+Real Analysis
+
+Additional Projects
+======
+* **Score-Based Diffusion / Bridge Diffusion**  
+  * Implemented state-of-the-art diffusion models via SDEs, including conditional diffusion, image infilling, and bridge diffusion.
+
+* **Diffusion Forward Path Learning via RL**  
+  * Learned diffusion model with trained forward paths via reinforcement learning (PPO), improving performance over DDPM on small-scale data.
+
+* **Image Segmentation via Densely Connected Graphical Model**  
+  * Implemented segmentation using a densely connected graphical model, outperforming CNNs by 5-10% on IoU and MSE.
+
+* **Soundwave (Citrushack Winner 2023)**  
+  * Developed an unsupervised music recommender using a VQ-Variational Autoencoder.
+
+* **Super Mario Reinforcement Learning**  
+  * Trained a PPO-based bot to beat Super Mario Bros., outperforming Double Deep Q-Net in training speed.
+
+* **Protein Folding via Hidden Markov Models**  
+  * Developed a variational expectation-maximization approach to improve secondary structure prediction accuracy by 70% over naive models.
+
+* **Signal Denoising via LDPC**  
+  * Implemented LDPC factor graphs using loopy BP, mean-field VI, and Metropolis Hastings, achieving near-optimal denoising.

@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "EventFlow: Forecasting Continuous-Time Event Data with Flow Matching"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2024-10-07-eventflow
+excerpt: 'A novel method for forecasting continuous-time event data using flow matching'
+date: 2024-10-07
+venue: 'arxiv (awaiting resubmission)'
+paperurl: 'https://arxiv.org/abs/2410.07430'
+citation: 'Gavin Kerrigan, Kai Nelson, Padhraic Smyth. (2024). &quot;EventFlow: Forecasting Continuous-Time Event Data with Flow Matching.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+Key contributions:
+- A new framework for continuous-time event forecasting via **flow matching**.
+
+For more details, read the full paper **[here](https://arxiv.org/abs/2410.07430)**.

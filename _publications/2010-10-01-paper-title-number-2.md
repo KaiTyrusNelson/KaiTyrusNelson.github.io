@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "A Generative Diffusion Model for Probabilistic Ensembles of Precipitation Maps Conditioned on Multisensor Satellite Observations"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-09-28-generative-diffusion-precipitation
+excerpt: 'A diffusion-based generative model for probabilistic precipitation forecasting, improving upon neural GPROF methods.'
+date: 2024-09-28
+venue: 'IEEE Transactions on Geoscience and Remote Sensing (TGRS)'
+paperurl: 'https://arxiv.org/abs/2409.16319'
+citation: 'Clement Guilloteau, Gavin Kerrigan, Kai Nelson, Giosue Migliorini, Padhraic Smyth, Runze Li, Efi Foufoula-Georgiou. (2024). &quot;A Generative Diffusion Model for Probabilistic Ensembles of Precipitation Maps Conditioned on Multisensor Satellite Observations.&quot; <i>IEEE TGRS</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

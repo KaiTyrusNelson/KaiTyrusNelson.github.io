@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for CS 178: Machine Learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+venue: "University of California, Irvine, Department of Computer Science"
+date: 2024-01-01
+location: "Irvine, CA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I served as a **Teaching Assistant** for **CS 178: Machine Learning**, an undergraduate-level course at UC Irvine.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
